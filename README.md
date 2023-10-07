@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primero repo en GH
+Mi primero README en GH
